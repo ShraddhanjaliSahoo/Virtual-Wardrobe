@@ -2,6 +2,7 @@
 A smart, modern web application for organizing your wardrobe, creating outfits, and planning what to wear. Built with React and styled with Tailwind CSS.
 
 🌟 Features
+
 📦 Wardrobe Management
 
 Add clothing items with image upload or emoji support
