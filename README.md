@@ -9,12 +9,16 @@ Add clothing items with image upload or emoji support
 Multi-category tagging system:
 
 Style Categories: Casual, Formal, Semi-Formal, Business Casual, Ethnic, Indo-Western, Traditional, and more
+
 Weather Categories: Hot, Warm, Mild, Cool, Cold, Rainy, Windy, All-Weather
+
 Occasion Categories: Daily Wear, Office/Work, Parties, Weddings, Festivals, Date Night, Travel, and more
 
 
 Advanced filtering by type, style, weather, and occasion
+
 Search functionality by name or brand
+
 Complete item details: Type, color, brand, season, and all selected tags
 
 👗 Outfit Creation
