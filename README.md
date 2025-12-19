@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+# 👗 Virtual Wardrobe — Smart Outfit Planner
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern **Virtual Wardrobe web application** that helps users digitally organize their clothing, plan outfits, and generate occasion-based outfit recommendations — all through an elegant, intuitive interface.
 
-## Available Scripts
+Built with **React**, this project focuses on **product design, user experience, and frontend engineering**, rather than just CRUD functionality.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ✨ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🧥 Wardrobe Management
+- Upload clothing images
+- Categorize items using structured dropdowns
+- Store and manage your complete digital wardrobe
+- Uniform image display for a clean, premium look
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🏷️ Detailed Categorization
+Each clothing item can be tagged with:
 
-### `npm test`
+**Categories**
+- Top, T-Shirt, Shirt, Sweatshirt, Sweater  
+- Saree, Kurta, Lehenga, Dress  
+- Jeans, Trousers, Skirts  
+- Co-ords, Jumpsuits  
+- Blazers, Jackets  
+- Shoes, Flats, Heels, Boots  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Weather (Multi-select)**
+- Summer
+- Winter
+- Spring
+- Fall
+- Rainy
 
-### `npm run build`
+**Occasions (Multi-select)**
+- Casual
+- Office / Formal
+- Party
+- Ethnic / Traditional
+- Travel / Vacation
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Colors**
+- Black, White, Grey  
+- Blue, Green, Red, Yellow  
+- Brown, Pink, Purple, Orange  
+- Gold, Silver  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 🎯 Outfit Recommendations
+- Generate **multiple outfit suggestions**
+- Filter recommendations based on:
+  - Selected **occasion**
+  - Selected **season**
+- Recommendations are derived from **user-tagged wardrobe data**
+- No random or weather-forced suggestions — full user control
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 📅 Outfit Scheduling
+- Schedule outfits for future dates
+- Avoid repeating outfits
+- Plan looks for travel, office weeks, or events
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### ❤️ Favorites
+- Mark favorite clothing items
+- Easily reuse go-to outfits
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🛠 Tech Stack
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- **Frontend:** React (CRA / Vite compatible)
+- **State Management:** React Context API
+- **Styling:** Custom CSS (Premium UI theme)
+- **Storage:** Browser LocalStorage
+- **Architecture:** Component-driven, scalable structure
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🎨 UI & UX Focus
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Clean, minimal, premium design
+- Consistent image sizing and layout
+- Reduced visual clutter
+- Designed to feel like a real consumer fashion product
